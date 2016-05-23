@@ -1,0 +1,16 @@
+Application
+I applied online. The process took 6 weeks. I interviewed at Amazon.com (Herndon, VA) in February 2015.
+Interview
+1 Telephonic (1hr) and onsite interview ( 4 rounds each 45 mins). Applied online.
+Telephonic -
+Mostly troubleshooting skills were tested. Scenarios about a network were given and I was asked to solve it. No correct answers as he only wanted to see how I approach the problem. Some networking questions out of CCNA and CCNP.
+
+Interview Questions
+Onsite -
+2 technical, 2 behavioral rounds.
+Technical -
+  questions about DNS, DHCP process, TCP/UDP, entire stack and functions of each layer, Active directory, web servers, linux configurations, object oriented programming concepts.
+Some behavioral skills were also tested by giving some situations.
+
+Behavioral -
+   Be ready to tell stories about your past work experience and projects to all the behavioral questions. They write down everything you say so be good at it. Leadership qualities are stressed the most. Handling conflicts, handling failures, misjudgement etc are some of the situations. Think over before you start answering. Also prepare for questions like why do you want to work with amazon? what do you want to do?  
